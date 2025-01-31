@@ -31,14 +31,10 @@ This project is a web application where users can create, manage, and personaliz
 - **Deployment**:
   - **Heroku** or **Netlify** for deploying the backend and frontend respectively
   - **Postman** for testing the API during development
-
 ### **Why This Project:**
 I’ve chosen this project because it combines fun (movies!) with essential web development skills. The interactive nature of the project will help me learn and practice both backend and frontend development, and the features like user authentication, CRUD operations, and personalized recommendations will provide valuable experience in full-stack development. 
-
 Moreover, I believe that working on this project will give me hands-on exposure to modern technologies such as React, Express, and MongoDB. It’s a practical project that I can use as a portfolio piece, and it’s also something I can continuously improve by adding more complex features (like background jobs, caching, or advanced recommendations). 
-
 I find this project interesting because it combines entertainment with technology and is something many people would enjoy using to discover new content. It will also help me deepen my understanding of database management, API development, and frontend interactivity.
-
 Milestone 7 Summary
 In this milestone, we implemented user login authentication by validating credentials and comparing encrypted passwords using bcrypt. The process involves retrieving user data, hashing the entered password, and matching it with the stored hash. If authenticated, access is granted; otherwise, an error is returned. This enhances security and protects user data. 🚀
 
