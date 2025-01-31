@@ -39,3 +39,7 @@ Moreover, I believe that working on this project will give me hands-on exposure 
 
 I find this project interesting because it combines entertainment with technology and is something many people would enjoy using to discover new content. It will also help me deepen my understanding of database management, API development, and frontend interactivity.
 
+Milestone 7 Summary
+In this milestone, we implemented user login authentication by validating credentials and comparing encrypted passwords using bcrypt. The process involves retrieving user data, hashing the entered password, and matching it with the stored hash. If authenticated, access is granted; otherwise, an error is returned. This enhances security and protects user data. 🚀
+
+
